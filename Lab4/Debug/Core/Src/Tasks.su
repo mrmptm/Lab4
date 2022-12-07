@@ -1,0 +1,6 @@
+../Core/Src/Tasks.c:9:6:ToggleRedLed	8	static
+../Core/Src/Tasks.c:12:6:TurnOnYellowLed	8	static
+../Core/Src/Tasks.c:16:6:TurnOffYellowLed	8	static
+../Core/Src/Tasks.c:20:6:TurnOnGreenLed	8	static
+../Core/Src/Tasks.c:24:6:TurnOffGreenLed	8	static
+../Core/Src/Tasks.c:28:6:TurnOffAllLed	8	static
